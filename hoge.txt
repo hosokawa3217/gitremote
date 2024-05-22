@@ -2,5 +2,3 @@ name?
 B
 A
 C
-D
-E
